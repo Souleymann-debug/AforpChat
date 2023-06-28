@@ -2,7 +2,7 @@ import socket
 import threading
 
 # Définition de l'adresse IP et du port du serveur
-HOST = '192.168.100.3'
+HOST = 'localhost'
 PORT = 5000
 
 # Liste pour stocker les connexions des clients
